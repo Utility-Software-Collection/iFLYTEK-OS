@@ -38,7 +38,7 @@ iFLYTEK OS 是 科大讯飞智慧窗iFLYTEK教育一体机电脑上搭载的系�
 
 ## 镜像获取
 镜像下载链接:
-[123Pan](https://www.123684.com/s/Dv2Ajv-CwrHA)
+[Download](https://www.123865.com/s/Dv2Ajv-xgrHA)
 
 ## 许可证
 
@@ -46,6 +46,7 @@ iFLYTEK OS 是 科大讯飞智慧窗iFLYTEK教育一体机电脑上搭载的系�
 
 ---
 如果你觉得这个项目有用，欢迎 ⭐ Star 这个仓库或提交 Issue 和 Pull Request！
+
 
 
 
